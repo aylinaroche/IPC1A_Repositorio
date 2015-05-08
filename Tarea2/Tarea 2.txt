@@ -1,0 +1,30 @@
+<html>
+<head>
+<title>TAREA 2</title>
+
+<body>
+<h3>[IPC1A]TAREA 2_</h3>
+<center><h4><font face="Arial"> TABLA 1 </font></h4></center>
+<center><table border="1">
+<tr>
+   <th><font color="#6334ad" face="Papyrus"> Nombre
+</font></th>
+   <th><font color="#6334ad" face="Papyrus"> Carnet
+</font></th>
+   <th><font color="#6334ad" face="Papyrus"> Imagen
+</font></th>
+</tr>
+
+<td> <font face="Papyrus"> Aylin Zulema Aroche Arbizu
+</font></td>
+<td> <font face="Papyrus"> 201404368
+</font></td>
+<td> <img src="idea.jpg">
+</td>
+</table></center>
+
+
+</body>
+</head>
+
+</html>
